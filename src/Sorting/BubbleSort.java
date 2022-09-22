@@ -25,8 +25,7 @@ public class BubbleSort {
 
 	public static void main(String[] args) {
 		int[] data = { 4,9,13,90,22,57 };
-	    
-	    // call method using class name
+
 	    BubbleSort.bubbleSort(data);
 	    
 	    System.out.println("Sorted Array in Ascending Order:");
